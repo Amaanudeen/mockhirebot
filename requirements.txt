@@ -1,0 +1,14 @@
+python-dotenv==1.2.1
+numpy==2.2.6
+sounddevice==0.5.3
+openai-whisper==20250625
+scipy==1.16.1
+pyttsx3==2.99
+google-generativeai==0.8.5
+langgraph==1.0.4
+langchain==1.1.2
+torch>=2.8.0
+
+# ✅ All packages installed successfully with Python 3.13 (64-bit)
+# Run your code with: & "C:\Users\meenakshi\AppData\Local\Programs\Python\Python313\python.exe" e:/offlinemodel/aiinterviewbot.py
+# Or use: & "C:\Users\meenakshi\AppData\Local\Programs\Python\Python313\python.exe" e:/offlinemodel/aifinalcode.py
